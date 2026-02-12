@@ -1,6 +1,6 @@
 /*
 Filename: explicitBindingMethods.js
-This code shows call, apply, and bind to force 'this' to a specific object.
+Demonstrate usage of call, apply, and bind methods to set 'this'.
 */
 function introduce() {
     console.log(this.personName);
