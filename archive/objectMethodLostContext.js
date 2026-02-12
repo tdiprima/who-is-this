@@ -1,6 +1,6 @@
 /*
 Filename: objectMethodLostContext.js
-This code shows a bug where 'this' loses its object context when a method is called alone.
+Demonstrates a bug where 'this' loses context in a method call.
 */
 const person = {
     fullName: "Charlie",
