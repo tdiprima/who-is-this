@@ -1,6 +1,6 @@
 /*
 Filename: globalScopeThis.js
-This code shows what 'this' is in global scope, with and without strict mode.
+Demonstrates the behavior of 'this' in global scope under both non-strict and strict modes.
 */
 console.log("Non-strict mode:", this);  // Window/global object in most environments
 
