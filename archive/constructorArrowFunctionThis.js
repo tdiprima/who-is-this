@@ -1,6 +1,6 @@
 /*
 Filename: constructorArrowFunctionThis.js
-This code shows arrow functions inside a constructor keeping the correct 'this' context.
+This code demonstrates using arrow functions in a constructor to maintain the correct 'this' context.
 */
 function Employee(id) {
     this.idNumber = id;
