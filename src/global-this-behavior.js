@@ -4,4 +4,4 @@
 console.log(this); // Window object in browser (non-strict)
 
 "use strict";
-console.log(this); // undefined
+console.log(this); // undefined (usually? now it's 'window')
